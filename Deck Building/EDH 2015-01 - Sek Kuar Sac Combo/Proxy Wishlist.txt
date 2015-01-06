@@ -21,6 +21,7 @@ furystoke giant
 genesis	
 Geralf's Messenger	
 Goblin Sharpshooter	
+Gravecrawler
 Greater Gargadon	
 hex parasite	
 Kresh the Bloodbraided	
@@ -53,14 +54,19 @@ Xathrid Demon
 Yavimaya Elder	
 
 awakening zone
+ashnod's altar
 birthing pod	
+Bitter Ordeal
 Black Sun's zenith	
+cauldron of souls
+conjurer's closet
 curse of the cabal	
 Culling Dais	
 Damnation	
 Deadbridge Chant
 Demonic Tutor
 Diabolic Intent
+Diabolic Tutor
 domri rade
 Doubling Season	
 eldrazi monument	
@@ -69,12 +75,15 @@ greater good
 Jinxed Idol	
 living death	
 Malevolent Awakening	
+mimic vat
+Nim Deathmantle
 oath of ghouls
 Oversold Cemetery	
 Perilous Forays	
 Phyrexian Altar	
 Praetor's Counsel	
 Putrefy
+Regrowth
 relic of progenitus
 Sensei's Divining Top
 Skullclamp	
@@ -82,5 +91,9 @@ Smokestack
 Soulblast	
 Spawning Pit	
 Summoner's Pact
+Tainted Pact
+unearth
 Vampiric Tutor
 Victimize
+Wheel of Fortune
+Worldly Tutor
