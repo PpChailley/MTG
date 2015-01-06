@@ -1,33 +1,36 @@
-1  Arid Mesa
-1  Badlands
-1  Bayou
-1  Blood Crypt
-1  Bloodstained Mire
-1  Dragonskull Summit
-1  Gaea's Cradle
-1  Golgari Rot Farm
-1  Graven Cairns
-1  Grove of the Burnwillows
-1  Gruul Turf
-1  Khalni Garden
-1  Lavaclaw Reaches
-1  Marsh Flats
-1  Misty Rainforest
-1  Mosswort Bridge
-1  Overgrown Tomb
-1  Pendelhaven
-1  Polluted Delta
-1  Rakdos Carnarium
-1  Savage Lands
-1  Scalding Tarn
-1  Stomping Ground
-1  Taiga
-1  Verdant Catacombs
-1  Windswept Heath
-1  Wooded Foothills
-1 Highland Weald
-1 Kazandu Refuge
-1 Miren, the Moaning Well
-1 Phyrexian Tower
-1 Savage Lands
-1 Shivan Oasis
+Arid Mesa
+Badlands
+Bayou
+Blood Crypt
+Bloodstained Mire
+Dragonskull Summit
+Gaea's Cradle
+Golgari Rot Farm
+Graven Cairns
+Grove of the Burnwillows
+Gruul Turf
+Khalni Garden
+Lavaclaw Reaches
+Marsh Flats
+Misty Rainforest
+Mosswort Bridge
+Overgrown Tomb
+Pendelhaven
+Polluted Delta
+Rakdos Carnarium
+Savage Lands
+Scalding Tarn
+Stomping Ground
+Taiga
+Verdant Catacombs
+Windswept Heath
+Wooded Foothills
+Highland Weald
+Kazandu Refuge
+Miren, the Moaning Well
+Phyrexian Tower
+Savage Lands
+Shivan Oasis
+urborg, yawgmoth's tomb
+vesuva
+Maze of ith
