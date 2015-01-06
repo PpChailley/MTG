@@ -1,0 +1,137 @@
+phyrexian altar
+ashnod's altar
+nether traitor
+
+
+
+
+1  Acidic Slime
+1  Blood Artist
+1  Bloodbraid Elf
+1  Bloodghast
+1  Bloodthrone Vampire
+1  Carrion Feeder
+1  Deathbringer Thoctar
+1  Deathrite Shaman
+1  Diligent Farmhand
+1  Endrek Sahr, Master Breeder
+1  Eternal Witness
+1  Farhaven Elf
+1  Fauna Shaman
+1  Fleshbag Marauder
+1  Goblin Sharpshooter
+1  Greater Gargadon
+1  Kiki-Jiki, Mirror Breaker
+1  Kozilek's Predator
+1  Krovikan Horror
+1  Mogg War Marshal
+1  Necrotic Ooze
+1  Nether Traitor
+1  Pawn of Ulamog
+1  Puppeteer Clique
+1  Reassembling Skeleton
+1  Sadistic Hypnotist
+1  Sakura-Tribe Elder
+1  Savra, Queen of the Golgari
+1  Scarland Thrinax
+1  Solemn Simulacrum
+1  Sprouting Thrinax
+1  Verdant Eidolon
+1  Viscera Seer
+1  Wood Elves
+1 Abyssal Gatekeeper
+1 Accursed Centaur
+1 Agent of Stromgald (Woman Holding Staff)
+1 Bloodthrone Vampire
+1 Braids, Cabal Minion
+1 Butcher of Malakir
+1 Carrion Feeder
+1 Child of Thorns
+1 Copper Myr
+1 Devouring Strossus
+1 Doomgape
+1 Dragon's Herald
+1 Dwarven Scorcher
+1 Elves of Deep Shadow
+1 Fume Spitter
+1 Fyndhorn Elves
+1 Gatekeeper of Malakir
+1 Gemhide Sliver
+1 Goblin Soothsayer
+1 Hellkite Hatchling
+1 Hellkite Overlord
+1 Iron Myr
+1 Kresh the Bloodbraided
+1 Leaden Myr
+1 Llanowar Elves
+1 Mortician Beetle
+1 Pawn of Ulamog
+1 Plague Myr
+1 Predator Dragon
+1 Quirion Elves
+1 Thoughtpicker Witch
+1 Viscera Seer
+1 Wild Cantor
+1 Xathrid Demon
+
+
+	1  Awakening Zone
+1  Buried Alive
+1  Culling Dais
+1  Culling the Weak
+1  Dark Ritual
+1  Death Cloud
+1  Diabolic Servitude
+1  Doubling Season
+1  Dread Return
+1  Entomb
+1  Fecundity
+1  Genesis Wave
+1  Goblin Bombardment
+1  Golgari Germination
+1  Grave Pact
+1  Jarad's Orders
+1  Mana Crypt
+1  Mana Vault
+1  Mox Diamond
+1  Oversold Cemetery
+1  Parallel Lives
+1  Perilous Forays
+1  Phyrexian Altar
+1  Skullclamp
+1  Smokestack
+1  Sol Ring
+1  Spawning Pit
+1  Sylvan Library
+1 Ashnod's Altar
+1 Barter in Blood
+1 Bone Splinters
+1 Burnt Offering
+1 Culling the Weak
+1 Death Pit Offering
+1 Demonic Appetite
+1 Dredge
+1 Firewild Borderpost
+1 Fling
+1 Furnace Celebration
+1 Goblin Bombardment
+1 Golgari Signet
+1 Grafted Wargear
+1 Gruul Signet
+1 Hit // Run
+1 Innocent Blood
+1 Jinxed Idol
+1 Last-Ditch Effort
+1 Malevolent Awakening
+1 Mind Slash
+1 Mind Stone
+1 Obelisk of Jund
+1 Plunge into Darkness
+1 Primal Growth
+1 Rakdos Signet
+1 Skulltap
+1 Soulblast
+1 Spawning Pit
+1 Urborg Justice
+1 Veinfire Borderpost
+
