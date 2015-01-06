@@ -1,48 +1,46 @@
-Arid Mesa
+Mosswort Bridge
+Spinerock knoll
+Windbrisk heights
+Gaea's Cradle
+Urborg, Tomb of Yawgmoth
 Badlands
 Bayou
-Blood Crypt
-Bloodstained Mire
-Cabal Coffers
-cavern of souls
-Crypt of Agadeem
-Dragonskull Summit
-exotic Orchard
-Fire-Lit Thicket
-Gaea's Cradle
-Golgari Rot Farm
-Graven Cairns
-Grove of the Burnwillows
-Gruul Turf
-Highland Weald
-Homeward Path
-Kazandu Refuge
-Kessig Wolf Run
-Khalni Garden
-Kher Keep
-Lavaclaw Reaches
-Marsh Flats
-Maze of ith
-Miren, the Moaning Well
-Misty Rainforest
-Mosswort Bridge
-Overgrown Tomb
-Pendelhaven
-Phyrexian Tower
-Polluted Delta
-Rakdos Carnarium
-Savage Lands
-Savage Lands
-Scalding Tarn
-Shivan Oasis
-Spinerock knoll
-Stomping Ground
 Taiga
-Thespian's Stage
-Urborg, Tomb of Yawgmoth
+Blood Crypt
+Overgrown Tomb
+Stomping Ground
+Bloodstained Mire
+Polluted Delta
+Marsh Flats
 Verdant Catacombs
-vesuva
-Volrath's Stronghold
-Windswept Heath
-Windbrisk heights
 Wooded Foothills
+jund panorama
+grixis panorama
+naya panorama
+Graven Cairns
+twilight mire
+Phyrexian Tower
+vesuva
+Mossfire Valley
+Shadowblood Ridge
+myriad landscape
+exotic Orchard
+Khalni Garden
+reliquary tower
+Springjack Pasture
+Homeward Path
+Rix Maadi, Dungeon Palace
+Thespian's Stage
+Maze of ith
+Volrath's Stronghold
+Kher Keep
+high market
+
+
+
+
+
+
+
+
+
