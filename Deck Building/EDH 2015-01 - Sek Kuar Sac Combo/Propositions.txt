@@ -1,166 +1,146 @@
-phyrexian altar
-ashnod's altar
-nether traitor
+Abyssal Gatekeeper	
+Accursed Centaur	
+Acidic Slime	
+awakening zone
+ashnod's altar	
 
-Damnation
-Black Sun zenith
-Red Sun zenith
-Rurik thar, the unbowed
-wurmcoil engine
-inferno titan
-changeling titan
-primeval titan
-phytotitan
-pernicious deed
-living death
-griselbrand
-Terastodon
-terra stomper
-fallen angel
-liliana of the veil
-liquid metal coating
-spike feeder
-thragtusk
-greater good
-birthing pod
-blood artist
-attrition
-butcher of malakir
-corpse traders
-curse of the cabal
-culling dais
-eldrazi monument
-spawning pit
-
-
-
-Acidic Slime
-Blood Artist
-Bloodbraid Elf
-Bloodghast
-Bloodthrone Vampire
-Carrion Feeder
-Deathbringer Thoctar
-Deathrite Shaman
-Diligent Farmhand
-Endrek Sahr, Master Breeder
-Eternal Witness
-Farhaven Elf
-Fauna Shaman
-Fleshbag Marauder
-Goblin Sharpshooter
-Greater Gargadon
-Kiki-Jiki, Mirror Breaker
-Kozilek's Predator
-Krovikan Horror
-Mogg War Marshal
-Necrotic Ooze
-Nether Traitor
-Pawn of Ulamog
-Puppeteer Clique
-Reassembling Skeleton
-Sadistic Hypnotist
-Sakura-Tribe Elder
-Savra, Queen of the Golgari
-Scarland Thrinax
-Solemn Simulacrum
-Sprouting Thrinax
-Verdant Eidolon
-Viscera Seer
-Wood Elves
-Abyssal Gatekeeper
-Accursed Centaur
-Agent of Stromgald (Woman Holding Staff)
-Bloodthrone Vampire
-Braids, Cabal Minion
-Butcher of Malakir
-Carrion Feeder
-Child of Thorns
-Copper Myr
-Devouring Strossus
-Doomgape
-Dragon's Herald
-Dwarven Scorcher
-Elves of Deep Shadow
-Fume Spitter
-Fyndhorn Elves
-Gatekeeper of Malakir
-Gemhide Sliver
-Goblin Soothsayer
-Hellkite Hatchling
-Hellkite Overlord
-Iron Myr
-Kresh the Bloodbraided
-Leaden Myr
-Llanowar Elves
-Mortician Beetle
-Pawn of Ulamog
-Plague Myr
-Predator Dragon
-Quirion Elves
-Thoughtpicker Witch
-Viscera Seer
-Wild Cantor
-Xathrid Demon
-
-
-	 Awakening Zone
-Buried Alive
-Culling Dais
-Culling the Weak
-Dark Ritual
-Death Cloud
-Diabolic Servitude
-Doubling Season
-Dread Return
-Entomb
-Fecundity
-Genesis Wave
-Goblin Bombardment
-Golgari Germination
-Grave Pact
-Jarad's Orders
-Mana Crypt
-Mana Vault
-Mox Diamond
-Oversold Cemetery
-Parallel Lives
-Perilous Forays
-Phyrexian Altar
-Skullclamp
-Smokestack
-Sol Ring
-Spawning Pit
-Sylvan Library
-Ashnod's Altar
-Barter in Blood
-Bone Splinters
-Burnt Offering
-Culling the Weak
-Death Pit Offering
-Demonic Appetite
-Dredge
-Firewild Borderpost
-Fling
-Furnace Celebration
-Goblin Bombardment
-Golgari Signet
-Grafted Wargear
-Gruul Signet
-Hit // Run
-Innocent Blood
-Jinxed Idol
-Last-Ditch Effort
-Malevolent Awakening
-Mind Slash
-Mind Stone
-Obelisk of Jund
-Plunge into Darkness
-Primal Growth
-Rakdos Signet
-Skulltap
-Soulblast
-Spawning Pit
-Urborg Justice
-Veinfire Borderpost
-
+attrition	
+Barter in Blood	
+birthing pod	
+Black Sun zenith	
+blood artist	
+Blood Artist	
+Bloodbraid Elf	
+Bloodghast	
+Bloodthrone Vampire	
+Bone Splinters	
+Braids, Cabal Minion	
+Buried Alive	
+Burnt Offering	
+Butcher of Malakir	
+Carrion Feeder	
+changeling titan	
+Child of Thorns	
+Copper Myr	
+corpse traders	
+Culling Dais	
+Culling the Weak	
+curse of the cabal	
+Damnation	
+Dark Ritual	
+Death Cloud	
+Death Pit Offering	
+Deathbringer Thoctar	
+Deathrite Shaman	
+Demonic Appetite	
+Devouring Strossus	
+Diabolic Servitude	
+Diligent Farmhand	
+Doomgape	
+Doubling Season	
+Dragon's Herald	
+Dread Return	
+Dredge	
+Dwarven Scorcher	
+eldrazi monument	
+Elves of Deep Shadow	
+Endrek Sahr, Master Breeder	
+Entomb	
+Eternal Witness	
+fallen angel	
+Farhaven Elf	
+Fauna Shaman	
+Fecundity	
+Firewild Borderpost	
+Fleshbag Marauder	
+Fling	
+Fume Spitter	
+Furnace Celebration	
+Fyndhorn Elves	
+Gatekeeper of Malakir	
+Gemhide Sliver	
+Genesis Wave	
+Goblin Bombardment	
+Goblin Sharpshooter	
+Goblin Soothsayer	
+Golgari Germination	
+Golgari Signet	
+Grafted Wargear	
+Grave Pact	
+Greater Gargadon	
+greater good	
+griselbrand	
+Gruul Signet	
+Hellkite Hatchling	
+Hellkite Overlord	
+Hit // Run	
+inferno titan	
+Innocent Blood	
+Iron Myr	
+Jarad's Orders	
+Jinxed Idol	
+Kiki-Jiki, Mirror Breaker	
+Kozilek's Predator	
+Kresh the Bloodbraided	
+Krovikan Horror	
+Last-Ditch Effort	
+Leaden Myr	
+liliana of the veil	
+liquid metal coating	
+living death	
+Llanowar Elves	
+Malevolent Awakening	
+Mana Crypt	
+Mana Vault	
+Mind Slash	
+Mind Stone	
+Mogg War Marshal	
+Mortician Beetle	
+Mox Diamond	
+Necrotic Ooze	
+Nether Traitor	
+Obelisk of Jund	
+Oversold Cemetery	
+Parallel Lives	
+Pawn of Ulamog	
+Perilous Forays	
+pernicious deed	
+Phyrexian Altar	
+phytotitan	
+Plague Myr	
+Plunge into Darkness	
+Predator Dragon	
+Primal Growth	
+primeval titan	
+Puppeteer Clique	
+Quirion Elves	
+Rakdos Signet	
+Reassembling Skeleton	
+Red Sun zenith	
+Rurik thar, the unbowed	
+Sadistic Hypnotist	
+Sakura-Tribe Elder	
+Savra, Queen of the Golgari	
+Scarland Thrinax	
+Skullclamp	
+Skulltap	
+Smokestack	
+Sol Ring	
+Solemn Simulacrum	
+Soulblast	
+Spawning Pit	
+spike feeder	
+Sprouting Thrinax	
+Sylvan Library	
+Terastodon	
+terra stomper	
+Thoughtpicker Witch	
+thragtusk	
+Urborg Justice	
+Veinfire Borderpost	
+Verdant Eidolon	
+Viscera Seer	
+Wild Cantor	
+Wood Elves	
+wurmcoil engine	
+Xathrid Demon	

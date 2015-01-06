@@ -9,28 +9,28 @@ Golgari Rot Farm
 Graven Cairns
 Grove of the Burnwillows
 Gruul Turf
+Highland Weald
+Kazandu Refuge
 Khalni Garden
 Lavaclaw Reaches
 Marsh Flats
+Maze of ith
+Miren, the Moaning Well
 Misty Rainforest
 Mosswort Bridge
 Overgrown Tomb
 Pendelhaven
+Phyrexian Tower
 Polluted Delta
 Rakdos Carnarium
 Savage Lands
+Savage Lands
 Scalding Tarn
+Shivan Oasis
 Stomping Ground
 Taiga
+urborg, yawgmoth's tomb
 Verdant Catacombs
+vesuva
 Windswept Heath
 Wooded Foothills
-Highland Weald
-Kazandu Refuge
-Miren, the Moaning Well
-Phyrexian Tower
-Savage Lands
-Shivan Oasis
-urborg, yawgmoth's tomb
-vesuva
-Maze of ith
