@@ -1,99 +1,123 @@
-Acidic Slime	
-avatar of woe	
-Blood Artist	
-Bloodbraid Elf	
-Bloodghast	
-Braids, Cabal Minion	
-Butcher of Malakir	
-changeling titan	
-corpse traders	
-Deathbringer Thoctar	
-Deathrite Shaman	
-disciple of bolas	
-Doomgape	
-Dragon Broodmother	
-duplicant	
-Eternal Witness	
-fallen angel	
-Fauna Shaman	
-Fleshbag Marauder	
-furystoke giant	
-genesis	
-Geralf's Messenger	
-Goblin Sharpshooter	
-Gravecrawler
-Greater Gargadon	
-hex parasite	
-Kresh the Bloodbraided	
-Mikaeus, the Unhallowed	
-Mindslicer	
-Necroplasm	
-Necrotic Ooze	
-Nether Traitor	
+*** META ***
+relic of progenitus
 Nezumi Graverobber	
-Pawn of Ulamog	
-Predator Dragon	
-Puppeteer Clique	
-Reassembling Skeleton	
-Ruric Thar, the Unbowed	
-Sadistic Hypnotist	
-Sakura-Tribe Elder	
-Savra, Queen of the Golgari	
-Seedguide Ash	
-Sheoldred, Whispering One	
-Solemn Simulacrum	
-spore frog	
-strangleroot geist	
-Terastodon	
-Thoughtpicker Witch	
-thragtusk	
-Treacherous Pit-Dweller	
-Viscera Seer	
-wurmcoil engine	
-Xathrid Demon	
-Yavimaya Elder	
 
-awakening zone
-ashnod's altar
-birthing pod	
-Bitter Ordeal
-Black Sun's zenith	
-cauldron of souls
-conjurer's closet
-curse of the cabal	
-Culling Dais	
-Damnation	
-Deadbridge Chant
+
+*** RAMP ***
+Sakura-Tribe Elder	
+Solemn Simulacrum	
+Yavimaya Elder	
+Seedguide Ash	
+Deathrite Shaman
+xenagos, the reveler	
+garruk wildspeaker
+darksteel ingot
+
+
+*** TUTO ***
 Demonic Tutor
 Diabolic Intent
 Diabolic Tutor
-domri rade
+Vampiric Tutor
+Worldly Tutor
+Summoner's Pact
+Fauna Shaman	
+Tainted Pact
+
+
+*** SAC INCENTIVE ***
+Blood Artist	
+Pawn of Ulamog	
+awakening zone
 Doubling Season	
-eldrazi monument	
 Grave Pact	
-greater good	
-Jinxed Idol	
-living death	
-Malevolent Awakening	
-mimic vat
-Nim Deathmantle
-oath of ghouls
-Oversold Cemetery	
-Perilous Forays	
+Savra, Queen of the Golgari	
+
+
+
+
+*** SAC OUTLET ***
+Braids, Cabal Minion	
+disciple of bolas	
+Viscera Seer	
+ashnod's altar
+birthing pod	
+Thoughtpicker Witch	
 Phyrexian Altar	
-Praetor's Counsel	
-Putrefy
-Regrowth
-relic of progenitus
-Sensei's Divining Top
+Spawning Pit	
+greater good	
+
+
+*** EXPENSIVE  5+ ***
+Mikaeus, the Unhallowed	
+Sheoldred, Whispering One	
+Butcher of Malakir	
+fallen angel	
+Ruric Thar, the Unbowed	
+Puppeteer Clique	
+Predator Dragon	
+eldrazi monument	
+Deathbringer Thoctar	
+Deadbridge Chant
+furystoke giant	
+
+
+
+*** SPOILER ***
+Eternal Witness	
+Wheel of Fortune
 Skullclamp	
 Smokestack	
-Soulblast	
-Spawning Pit	
-Summoner's Pact
-Tainted Pact
+living death	
+mimic vat
+thragtusk	
+Bitter Ordeal
+Bloodbraid Elf	
+Mindslicer	
+Greater Gargadon	
+
+
+*** LOOP/UNDYING ***
+Gravecrawler
+Geralf's Messenger	
+Nether Traitor	
+strangleroot geist	
+cauldron of souls
+Reassembling Skeleton	
+Treacherous Pit-Dweller	
+
+
+*** COMBO ***
 unearth
-Vampiric Tutor
+Nim Deathmantle
+hex parasite	
+
+
+
+*** REA / CA ***
+oath of ghouls
+domri rade
+oracle of mul daya
+Sensei's Divining Top
+Oversold Cemetery	
+genesis	
 Victimize
-Wheel of Fortune
-Worldly Tutor
+
+
+
+*** CONTROL ***
+curse of the cabal	
+Damnation	
+Fleshbag Marauder	
+Goblin Sharpshooter	
+
+
+*** OTHERS ***
+Dragon Broodmother	
+Necroplasm	
+Sadistic Hypnotist	
+Terastodon	
+wurmcoil engine	
+Black Sun's zenith	
+Perilous Forays	
+Putrefy
