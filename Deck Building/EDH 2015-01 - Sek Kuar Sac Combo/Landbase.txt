@@ -3,15 +3,21 @@ Badlands
 Bayou
 Blood Crypt
 Bloodstained Mire
+Cabal Coffers
+Crypt of Agadeem
 Dragonskull Summit
+Fire-Lit Thicket
 Gaea's Cradle
 Golgari Rot Farm
 Graven Cairns
 Grove of the Burnwillows
 Gruul Turf
 Highland Weald
+Homeward Path
 Kazandu Refuge
+Kessig Wolf Run
 Khalni Garden
+Kher Keep
 Lavaclaw Reaches
 Marsh Flats
 Maze of ith
@@ -27,10 +33,14 @@ Savage Lands
 Savage Lands
 Scalding Tarn
 Shivan Oasis
+Spinerock knoll
 Stomping Ground
 Taiga
-urborg, yawgmoth's tomb
+Thespian's Stage
+Urborg, Tomb of Yawgmoth
 Verdant Catacombs
 vesuva
+Volrath's Stronghold
 Windswept Heath
+Windbrisk heights
 Wooded Foothills

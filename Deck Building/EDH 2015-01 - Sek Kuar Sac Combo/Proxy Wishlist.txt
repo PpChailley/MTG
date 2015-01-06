@@ -5,6 +5,7 @@ awakening zone
 ashnod's altar	
 attrition	
 Barter in Blood	
+Beacon of Unrest
 birthing pod	
 Black Sun's zenith	
 Blood Artist	
@@ -21,25 +22,35 @@ Culling Dais
 Culling the Weak	
 curse of the cabal	
 Damnation	
+Deadbridge Chant
 Death Cloud	
 Deathbringer Thoctar	
 Deathrite Shaman	
 Diabolic Servitude	
+dimir house guard
+disciple of bolas
 Doomgape	
 Doubling Season	
+Dragon Broodmother
 Dread Return	
+duplicant
 eldrazi monument	
 Endrek Sahr, Master Breeder	
 Entomb	
 Eternal Witness	
+Expedition Map
+Explosive Vegetation
 fallen angel	
 Fauna Shaman	
 Fecundity	
 Fleshbag Marauder	
 Fling	
 Fume Spitter	
+furystoke giant
 Gatekeeper of Malakir	
+genesis
 Genesis Wave	
+Geralf's Messenger
 Goblin Bombardment	
 Goblin Sharpshooter	
 Golgari Germination	
@@ -49,6 +60,7 @@ greater good
 griselbrand	
 Hellkite Hatchling	
 Hellkite Overlord	
+hex parasite
 Hit // Run	
 inferno titan	
 Innocent Blood	
@@ -60,14 +72,21 @@ Kresh the Bloodbraided
 Krovikan Horror	
 Last-Ditch Effort	
 liliana of the veil	
-liquidmetal coating	
+Liquimetal Coating	
 living death	
 Malevolent Awakening	
+Melira, Sylvok Outcast
+Mikaeus, the Unhallowed
 Mind Slash	
+Mindslicer
 Mogg War Marshal	
-Mortician Beetle	
+Mortician Beetle
+murderous redcap	
 Necrotic Ooze	
-Nether Traitor	
+Necroplasm
+Nether Traitor
+Nezumi Graverobber	
+Oracle of Mul Daya
 Oversold Cemetery	
 Parallel Lives	
 Pawn of Ulamog	
@@ -75,18 +94,25 @@ Perilous Forays
 pernicious deed	
 Phyrexian Altar	
 phytotitan	
-Plunge into Darkness	
+Plunge into Darkness
+Praetor's Counsel	
 Predator Dragon	
 Primal Growth	
 primeval titan	
 Puppeteer Clique	
+Putrefy
 Reassembling Skeleton	
 Red Sun's zenith	
+relic of progenitus
+Rise of the Dark Realms
 Ruric Thar, the Unbowed
 Sadistic Hypnotist	
 Sakura-Tribe Elder	
 Savra, Queen of the Golgari	
 Scarland Thrinax	
+Seedguide Ash
+Sensei's Divining Top
+Sheoldred, Whispering One
 Skullclamp	
 Skulltap	
 Smokestack	
@@ -95,13 +121,19 @@ Soulblast
 Spawning Pit	
 spike feeder	
 Sprouting Thrinax	
+strangleroot geist
+Summoner's Pact
 Sylvan Library	
 Terastodon	
 Thoughtpicker Witch	
 thragtusk	
+Treacherous Pit-Dweller
 Urborg Justice	
 Verdant Eidolon	
+Victimize
+Vigor Mortis
 Viscera Seer	
+Yavimaya Elder
 Wood Elves	
 wurmcoil engine	
 Xathrid Demon	
