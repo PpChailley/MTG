@@ -1,5 +1,5 @@
 Acidic Slime	
-avatar of woe
+avatar of woe	
 Blood Artist	
 Bloodbraid Elf	
 Bloodghast	
@@ -9,53 +9,50 @@ changeling titan
 corpse traders	
 Deathbringer Thoctar	
 Deathrite Shaman	
-dimir house guard
-disciple of bolas
-Dragon Broodmother
+dimir house guard	
+disciple of bolas	
 Doomgape	
-duplicant
+Dragon Broodmother	
+duplicant	
 Eternal Witness	
 fallen angel	
 Fauna Shaman	
 Fleshbag Marauder	
-furystoke giant
-genesis
-Geralf's Messenger
+furystoke giant	
+genesis	
+Geralf's Messenger	
 Goblin Sharpshooter	
 Greater Gargadon	
-hex parasite
+hex parasite	
 Kresh the Bloodbraided	
-Melira, Sylvok Outcast
-Mikaeus, the Unhallowed
-Mindslicer
-Mortician Beetle
+Mikaeus, the Unhallowed	
+Mindslicer	
+Necroplasm	
 Necrotic Ooze	
-Necroplasm
-Nether Traitor
+Nether Traitor	
 Nezumi Graverobber	
 Pawn of Ulamog	
-phytotitan	
 Predator Dragon	
 Puppeteer Clique	
 Reassembling Skeleton	
-Ruric Thar, the Unbowed
+Ruric Thar, the Unbowed	
 Sadistic Hypnotist	
 Sakura-Tribe Elder	
 Savra, Queen of the Golgari	
-Seedguide Ash
-Sheoldred, Whispering One
+Seedguide Ash	
+Sheoldred, Whispering One	
 Solemn Simulacrum	
-spike feeder	
-spore frog
-strangleroot geist
+spore frog	
+strangleroot geist	
 Terastodon	
 Thoughtpicker Witch	
 thragtusk	
-Treacherous Pit-Dweller
+Treacherous Pit-Dweller	
 Viscera Seer	
-Yavimaya Elder
 wurmcoil engine	
 Xathrid Demon	
+Yavimaya Elder	
+
 awakening zone
 birthing pod	
 Black Sun's zenith	
