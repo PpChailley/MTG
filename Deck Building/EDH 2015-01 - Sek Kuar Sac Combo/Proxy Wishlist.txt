@@ -9,7 +9,6 @@ changeling titan
 corpse traders	
 Deathbringer Thoctar	
 Deathrite Shaman	
-dimir house guard	
 disciple of bolas	
 Doomgape	
 Dragon Broodmother	
@@ -60,6 +59,9 @@ curse of the cabal
 Culling Dais	
 Damnation	
 Deadbridge Chant
+Demonic Tutor
+Diabolic Intent
+domri rade
 Doubling Season	
 eldrazi monument	
 Grave Pact	
@@ -80,4 +82,5 @@ Smokestack
 Soulblast	
 Spawning Pit	
 Summoner's Pact
+Vampiric Tutor
 Victimize
