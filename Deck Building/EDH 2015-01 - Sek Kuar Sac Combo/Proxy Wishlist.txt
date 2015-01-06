@@ -1,13 +1,10 @@
-Abyssal Gatekeeper	
 Acidic Slime	
 avatar of woe
 Blood Artist	
 Bloodbraid Elf	
 Bloodghast	
-Bloodthrone Vampire	
 Braids, Cabal Minion	
 Butcher of Malakir	
-Carrion Feeder	
 changeling titan	
 corpse traders	
 Deathbringer Thoctar	
@@ -17,26 +14,21 @@ disciple of bolas
 Dragon Broodmother
 Doomgape	
 duplicant
-Endrek Sahr, Master Breeder	
 Eternal Witness	
 fallen angel	
 Fauna Shaman	
 Fleshbag Marauder	
-Fume Spitter	
 furystoke giant
 genesis
 Geralf's Messenger
 Goblin Sharpshooter	
 Greater Gargadon	
-Hellkite Hatchling	
 hex parasite
-Kozilek's Predator	
 Kresh the Bloodbraided	
 Melira, Sylvok Outcast
 Mikaeus, the Unhallowed
 Mindslicer
 Mortician Beetle
-murderous redcap	
 Necrotic Ooze	
 Necroplasm
 Nether Traitor
@@ -44,7 +36,6 @@ Nezumi Graverobber
 Pawn of Ulamog	
 phytotitan	
 Predator Dragon	
-primeval titan	
 Puppeteer Clique	
 Reassembling Skeleton	
 Ruric Thar, the Unbowed
@@ -65,54 +56,31 @@ Viscera Seer
 Yavimaya Elder
 wurmcoil engine	
 Xathrid Demon	
-
 awakening zone
-attrition	
-Barter in Blood	
-Beacon of Unrest
 birthing pod	
 Black Sun's zenith	
-Burnt Offering	
-Culling Dais	
-Culling the Weak	
 curse of the cabal	
+Culling Dais	
 Damnation	
 Deadbridge Chant
-Death Cloud	
-Diabolic Servitude	
 Doubling Season	
-Dread Return	
 eldrazi monument	
-Genesis Wave	
-Goblin Bombardment	
-Golgari Germination	
 Grave Pact	
 greater good	
-Hit // Run	
-Jarad's Orders	
 Jinxed Idol	
-Last-Ditch Effort	
-liliana of the veil	
 living death	
 Malevolent Awakening	
-Mind Slash
-oath of druids
 oath of ghouls
 Oversold Cemetery	
 Perilous Forays	
 Phyrexian Altar	
-Plunge into Darkness
 Praetor's Counsel	
-Primal Growth	
 Putrefy
 relic of progenitus
-Rise of the Dark Realms
 Sensei's Divining Top
 Skullclamp	
 Smokestack	
 Soulblast	
 Spawning Pit	
 Summoner's Pact
-Urborg Justice	
 Victimize
-Vigor Mortis
