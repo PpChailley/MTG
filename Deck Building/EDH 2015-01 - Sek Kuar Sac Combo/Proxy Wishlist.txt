@@ -1,139 +1,118 @@
 Abyssal Gatekeeper	
 Acidic Slime	
 avatar of woe
-awakening zone
-ashnod's altar	
-attrition	
-Barter in Blood	
-Beacon of Unrest
-birthing pod	
-Black Sun's zenith	
 Blood Artist	
 Bloodbraid Elf	
 Bloodghast	
 Bloodthrone Vampire	
 Braids, Cabal Minion	
-Burnt Offering	
 Butcher of Malakir	
 Carrion Feeder	
 changeling titan	
 corpse traders	
-Culling Dais	
-Culling the Weak	
-curse of the cabal	
-Damnation	
-Deadbridge Chant
-Death Cloud	
 Deathbringer Thoctar	
 Deathrite Shaman	
-Diabolic Servitude	
 dimir house guard
 disciple of bolas
-Doomgape	
-Doubling Season	
 Dragon Broodmother
-Dread Return	
+Doomgape	
 duplicant
-eldrazi monument	
 Endrek Sahr, Master Breeder	
-Entomb	
 Eternal Witness	
-Expedition Map
-Explosive Vegetation
 fallen angel	
 Fauna Shaman	
-Fecundity	
 Fleshbag Marauder	
-Fling	
 Fume Spitter	
 furystoke giant
-Gatekeeper of Malakir	
 genesis
-Genesis Wave	
 Geralf's Messenger
-Goblin Bombardment	
 Goblin Sharpshooter	
-Golgari Germination	
-Grave Pact	
 Greater Gargadon	
-greater good	
-griselbrand	
 Hellkite Hatchling	
-Hellkite Overlord	
 hex parasite
-Hit // Run	
-inferno titan	
-Innocent Blood	
-Jarad's Orders	
-Jinxed Idol	
-Kiki-Jiki, Mirror Breaker	
 Kozilek's Predator	
 Kresh the Bloodbraided	
-Krovikan Horror	
-Last-Ditch Effort	
-liliana of the veil	
-Liquimetal Coating	
-living death	
-Malevolent Awakening	
 Melira, Sylvok Outcast
 Mikaeus, the Unhallowed
-Mind Slash	
 Mindslicer
-Mogg War Marshal	
 Mortician Beetle
 murderous redcap	
 Necrotic Ooze	
 Necroplasm
 Nether Traitor
 Nezumi Graverobber	
-Oracle of Mul Daya
-Oversold Cemetery	
-Parallel Lives	
 Pawn of Ulamog	
-Perilous Forays	
-pernicious deed	
-Phyrexian Altar	
 phytotitan	
-Plunge into Darkness
-Praetor's Counsel	
 Predator Dragon	
-Primal Growth	
 primeval titan	
 Puppeteer Clique	
-Putrefy
 Reassembling Skeleton	
-Red Sun's zenith	
-relic of progenitus
-Rise of the Dark Realms
 Ruric Thar, the Unbowed
 Sadistic Hypnotist	
 Sakura-Tribe Elder	
 Savra, Queen of the Golgari	
-Scarland Thrinax	
 Seedguide Ash
-Sensei's Divining Top
 Sheoldred, Whispering One
-Skullclamp	
-Skulltap	
-Smokestack	
 Solemn Simulacrum	
-Soulblast	
-Spawning Pit	
 spike feeder	
-Sprouting Thrinax	
+spore frog
 strangleroot geist
-Summoner's Pact
-Sylvan Library	
 Terastodon	
 Thoughtpicker Witch	
 thragtusk	
 Treacherous Pit-Dweller
-Urborg Justice	
-Verdant Eidolon	
-Victimize
-Vigor Mortis
 Viscera Seer	
 Yavimaya Elder
-Wood Elves	
 wurmcoil engine	
 Xathrid Demon	
+
+awakening zone
+attrition	
+Barter in Blood	
+Beacon of Unrest
+birthing pod	
+Black Sun's zenith	
+Burnt Offering	
+Culling Dais	
+Culling the Weak	
+curse of the cabal	
+Damnation	
+Deadbridge Chant
+Death Cloud	
+Diabolic Servitude	
+Doubling Season	
+Dread Return	
+eldrazi monument	
+Genesis Wave	
+Goblin Bombardment	
+Golgari Germination	
+Grave Pact	
+greater good	
+Hit // Run	
+Jarad's Orders	
+Jinxed Idol	
+Last-Ditch Effort	
+liliana of the veil	
+living death	
+Malevolent Awakening	
+Mind Slash
+oath of druids
+oath of ghouls
+Oversold Cemetery	
+Perilous Forays	
+Phyrexian Altar	
+Plunge into Darkness
+Praetor's Counsel	
+Primal Growth	
+Putrefy
+relic of progenitus
+Rise of the Dark Realms
+Sensei's Divining Top
+Skullclamp	
+Smokestack	
+Soulblast	
+Spawning Pit	
+Summoner's Pact
+Urborg Justice	
+Victimize
+Vigor Mortis
