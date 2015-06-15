@@ -17,7 +17,6 @@ darksteel ingot
 *** TUTO ***
 Demonic Tutor
 Diabolic Intent
-Diabolic Tutor
 Vampiric Tutor
 Worldly Tutor
 Summoner's Pact
@@ -27,6 +26,7 @@ Tainted Pact
 
 *** SAC INCENTIVE ***
 Blood Artist	
+falkenrath noble
 Pawn of Ulamog	
 awakening zone
 Doubling Season	
@@ -46,6 +46,7 @@ Thoughtpicker Witch
 Phyrexian Altar	
 Spawning Pit	
 greater good	
+goblin bombardment
 
 
 *** EXPENSIVE  5+ ***
@@ -60,6 +61,7 @@ eldrazi monument
 Deathbringer Thoctar	
 Deadbridge Chant
 furystoke giant	
+grave titan
 
 
 
@@ -99,6 +101,7 @@ oath of ghouls
 domri rade
 oracle of mul daya
 Sensei's Divining Top
+scroll rack
 Oversold Cemetery	
 genesis	
 Victimize
